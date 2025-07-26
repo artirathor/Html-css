@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+ul{
+  background-color: black;
+  color: beige;
+  width: 504px;
+  height: 233;
+}
+/* .main{
+  background-color: rgb(180, 88, 88);
+  color: blue; 
+  height: 504px;
+  width: 233px;
+} */
+/* .image{ *
+  width: 400px;
+  height: 3500px;
+  background-image: url('/photos/MadhuriDixit.png');
+  background-repeat: no-repeat;
+  background-color: rgba(44, 16, 170, 0.302);
+  background-size: 397 398;
+  background-position: top center;
+  background-attachment: scroll;
+/* } */
